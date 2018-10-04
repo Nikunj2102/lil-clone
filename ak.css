@@ -1,0 +1,61 @@
+body{
+      background: url(image.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.fuck{
+  flaot:right;
+  font-size: 15px;
+  padding-top:10px;
+  height: 50px;
+}
+.fuck a{
+  color: black;
+  text-decoration: none;
+}
+.align{
+  background-color: white;
+  margin-top: -17px;
+  margin-left: -10px;
+  margin-right: -10px;
+  height: 50px;
+  padding: 15px;
+}
+#left{
+
+}
+main{
+  margin-top: 220px;
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+ ul {
+    list-style-type: none;
+    padding-left: 55%;
+    height: 30px;
+}
+h1{
+  font-size: 45 px;
+}
+ li{
+    display: inline;
+    margin-left: 15px;
+    color: black;
+}
+h6{
+  font-size: 15px;
+}
+.random{
+  color: white;
+  height: 45px;
+  width: 170px;
+}
+#download{
+  background-color: transparent;
+  border: solid white 2px;
+}
+
+#read{
+
+}
